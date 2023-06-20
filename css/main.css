@@ -41,6 +41,10 @@ ul.ul-edu li .description p.institution {
   color: var(--blackboard);
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 /* Hyperlinks */
 a:link, a:visited {
   color: var(--red);
