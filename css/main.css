@@ -41,6 +41,10 @@ ul.ul-edu li .description p.institution {
   color: var(--blackboard);
 }
 
+li {
+    margin-bottom: 3px;
+}
+
 li span {
     margin-bottom: 10px;
 }
